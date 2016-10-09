@@ -2,7 +2,7 @@
 header {
 	border: solid black 1px;
 	overflow: auto;				/* Permet de conserver tous les éléments dans le block lorsque l'on rapetisse la fenêtre */
-	
+	border-radius: 5px;
 }
 
 img {
